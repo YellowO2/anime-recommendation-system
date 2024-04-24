@@ -100,11 +100,3 @@ Collaborative filtering surpasses content-based filtering by uncovering deeper c
 
 * [Anime Recommendation Engine - Content & Collaborative Filtering](https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29)
 * [Movie Analysis - Collaborative Filtering with Surprise](https://github.com/nicklimmm/movie-analysis/tree/main)
-
-
-
-## References
-- https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29
-- https://github.com/nicklimmm/movie-analysis/tree/main
-
-
