@@ -72,7 +72,7 @@ Collaborative filtering surpasses content-based filtering by uncovering deeper c
       * Remove duplicate rows.
       * Drop variables like 'text', 'uid', and 'link'.
 
-2. **[Exploratory Data Analysis]**(<Exploratory Data Analysis & Visualization.ipynb>)
+2. [Exploratory Data Analysis](<Exploratory Data Analysis & Visualization.ipynb>)
    * Anime Info Dataset EDA:
       * Barplot of Top 10 anime based on popularity.
       * Wordcloud of genres.
@@ -86,11 +86,11 @@ Collaborative filtering surpasses content-based filtering by uncovering deeper c
       * Score distribution for anime with scores from user rating (violin plot, histogram, and boxplot).
       * Scatterplot of mean rating against aired year.
 
-3. **[Model Training: Content-Based]**(<Model Training Content-Based Filtering.ipynb>)
+3. [Model Training: Content-Based](<Model Training Content-Based Filtering.ipynb>)
    * Similarity Calculation: Calculate cosine similarity between content.
    * Recommendation Generation: Generate recommendations using similarity rating.
 
-4. **Model Training: Collaborative Filtering** (<Model Training Collaborative Filtering.ipynb>)
+4. [Model Training: Collaborative Filtering](<Model Training Collaborative Filtering.ipynb>)
    * Collaborative filtering comes in two forms:
       * **User-based:** Recommends items by finding similar users and suggesting items they liked.
       * **Item-based:** Recommends items similar to those the user has shown interest in (based on user interactions, not content).
